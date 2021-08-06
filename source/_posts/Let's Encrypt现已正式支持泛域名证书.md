@@ -1,6 +1,6 @@
 ---
 title: Let's Encrypt现已正式支持泛域名证书
-date: 2018-03-15 05:39:00
+date: 2021-03-15 05:39:00
 categories: lab
 tags: [证书,野卡,免费,Let's Encrypt]
 urlname: letsencrypt-wildcard-certificate-support-is-live
