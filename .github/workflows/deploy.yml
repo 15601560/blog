@@ -17,7 +17,7 @@ jobs:
   build:
     name: Build on node ${{ matrix.node_version }} and ${{ matrix.os }}
     runs-on: ubuntu-latest
-    strategy:
+    strategy: array
       matrix:
         os: [ubuntu-latest]
         node_version: [12.x]
