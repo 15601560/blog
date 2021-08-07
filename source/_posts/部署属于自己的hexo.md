@@ -5,7 +5,7 @@ categories: lab
 tags: [hexo,部署]
 urlname: hexo
 ---
-##1.要求
+# 1.要求
 
 1.首先，你需要一台电脑，注册有**github**账号，**CloudFlare账号**（访问不了试试用魔法）
 
@@ -13,7 +13,7 @@ urlname: hexo
 
 3.能全程魔法就用吧，毕竟github这玩意...（部署的站点会用CloudFlare加速，所以不用担心）
 
-##2.安装
+# 2.安装
 
 
 
@@ -27,7 +27,7 @@ urlname: hexo
 
 考虑到百度老有**奇奇怪怪的高速下载器**，这里直接给国内镜像链接（淘宝）
 
-##3.配置github上传
+# 3.配置github上传
 
 
 因为习惯ssh了，这里不介绍https
@@ -59,7 +59,7 @@ Title随便填，Key粘贴进去，保存
 
 看到Hi xxx! ...证明配置成功
 
-## 4.配置
+#  4.配置
 
 1.在github创建 `你的用户名.github.io` 仓库 `blog`仓库 `img`仓库
 
@@ -96,7 +96,7 @@ name填写`HEXO_DEPLOY_PRIVATE_KEY`
 
 Value把前面**生成ssh密钥**里的id_rsa.pub内容复制进去
 
-## 5上传
+# 5上传
 
 随便在哪个地方打开Git，输入`git clone 你的blog仓库` 这里不是github.io那个
 
@@ -108,7 +108,7 @@ Value把前面**生成ssh密钥**里的id_rsa.pub内容复制进去
 
 输入`git push -u origin main`成功后，就不需要了，该删的都删了
 
-## 6.配置后台
+# 6.配置后台
 
 基于[HexoPlusPlus](https://hexoplusplus.js.org)
 
