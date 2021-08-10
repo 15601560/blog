@@ -18,7 +18,7 @@ valine:
   appKey: uWuwGS1xiIwh3zHKENc7ubyL
 
 highlight:
-  enable: false
+  enable: true
 
 cdn:
   enabled: true
