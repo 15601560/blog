@@ -11,4 +11,4 @@ type: links
 [萝莉社](https://myhloli.com/)
 [魚の筆記](https://www.diefishfish.com/)
 [Corps' Blog](https://corps.js.org/)
-[Hi, DIYgod](https://diygod.me/)
+[Lazy's Blog](https://blog.imlazy.ink:233/)
