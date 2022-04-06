@@ -25,9 +25,13 @@ jobs:
     
     - name: Setup Hexo Dependencies
       run: |
+        npm audit fix
         npm install hexo-cli -g
         npm install hexo-deployer-git
         npm install
+        npm audit fix
+        npm i -g npm-check
+        npm-check -u
     
     - name: Setup Deploy Private Key
       env:
