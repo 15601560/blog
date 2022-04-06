@@ -25,6 +25,7 @@ jobs:
     
     - name: Setup Hexo Dependencies
       run: |
+        npm i --package-lock-only
         npm audit fix
         npm install hexo-cli -g
         npm install hexo-deployer-git
