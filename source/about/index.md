@@ -45,7 +45,7 @@ type: about
 
 托管于 [GitHub Pages](https://pages.github.com/)
 
-由 [Cloudflare](https://www.cloudflare.com/) 提供 DNS 解析服务
+由 [u-cdn](https://u-cdn.cn/) 提供 DNS 解析服务
 
 
 - 2019.12.01，迁移至 Hexo，托管于 GitHub Pages
