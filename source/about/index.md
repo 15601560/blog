@@ -15,28 +15,6 @@ type: about
 > 　　　　对你的献诗
 
 
-{% cplayer %}
-- 405079779
-- 1352292327
-- 437250681
-- 751472
-- 425828206
-- 1477670
-- 478127
-- 520459951
-- 26220167
-- 27548281
-{% endcplayer %}
-<style>
-.cplayer-template {
-  margin-top: 50px;
-}
-@media screen and (max-width: 800px) {
-  .cplayer-template {
-    margin-top: 0;
-  }
-}
-</style>
 
 ### **关于 Blog**
 
