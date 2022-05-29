@@ -15,6 +15,16 @@ type: about
 > 　　　　对你的献诗
 
 
+<style>
+.cplayer-template {
+  margin-top: 50px;
+}
+@media screen and (max-width: 800px) {
+  .cplayer-template {
+    margin-top: 0;
+  }
+}
+</style>
 
 ### **关于 Blog**
 
