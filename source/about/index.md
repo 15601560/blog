@@ -7,12 +7,12 @@ type: about
 <div class="about-avatar"></div>
 
 > 我有些难过
-> 喜厌我都表现在脸上
-> 欢愉也总是短暂
-> 你也不知道在哪
-> 也许是无边的天空
+> 喜厌都在脸上
+> 欢愉总是短暂
+> 你不知在何方
+> 也许我离你很远
 > 
-> 　　　　对你的献诗
+> 　　　　喜欢你的献诗
 
 
 <style>
@@ -33,7 +33,7 @@ type: about
 
 托管于 [GitHub Pages](https://pages.github.com/)
 
-由 [u-cdn](https://u-cdn.cn/) 提供 DNS 解析服务
+由 [腾讯云](https://cloud.tencent.com) 提供 国内加速
 
 
 - 2019.12.01，迁移至 Hexo，托管于 GitHub Pages
