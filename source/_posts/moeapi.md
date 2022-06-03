@@ -5,7 +5,9 @@ tags: [计数]
 urlname: moeapi
 ---
 
-调用有手就行，能不能用看我能不能扛得住
+改为反代官方项目...
+
+腾讯云cdn，流量不多，干完跑路？
 
 #### SVG 地址
 
@@ -18,8 +20,6 @@ urlname: moeapi
 就像下面一样
 
 ![:name](https://moeapi.imgblz.cn/get/@index?theme=rule34)
-
-在容器里跑的！
 
 反应慢正常，谁知道腾讯云回源撒原因慢的雅痞
 
