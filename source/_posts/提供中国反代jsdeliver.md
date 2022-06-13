@@ -5,6 +5,8 @@ tags: [cdn]
 urlname: jsdeliverchina
 ---
 
+提供的公共服务仅用于js等文件，若当代理下载请绕道
+
 以下基于cloudflare的work代理
 
 反代服务器：
