@@ -14,5 +14,9 @@ urlname: love-U2FsdGVkX19n6D4uu2JOzRd0T3j2VlQB
 連れてって
 きらめく橋の向こうまで
 一緒に
+前に好きだった
+さようなら
+それが決して起こらなかったかのように
+それが決
 
 ———TripleDes?
