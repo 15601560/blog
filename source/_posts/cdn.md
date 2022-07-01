@@ -3,6 +3,7 @@ title: 为小网站提供free的cdn加速
 date: 2022-07-1 00:00:00
 urlname:zfreecdn
 ---
+
 申请请加wx (lzt_best)
 
 稳定性：我的网站没死就能用（不要谈SLA‘免费要啥自行车）
