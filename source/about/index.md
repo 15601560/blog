@@ -28,17 +28,14 @@ type: about
 
 ### **关于 Blog**
 
-
 本站使用开源静态网页生成工具 [Hexo](https://hexo.io/)，主题使用[三斤](https://geek.lc/)提供的 Geek
 
 托管于 [GitHub Pages](https://pages.github.com/)
 
 由 [腾讯云](https://cloud.tencent.com) 提供 国内加速
 
-
 - 2019.12.01，迁移至 Hexo，托管于 GitHub Pages
 - 2021.08.29，博客改名为「恶魔萝莉控」，域名更换为 blog.imgblz.cn
-
 
 ### **关于我**
 
@@ -51,4 +48,24 @@ type: about
 现在是一个普通人。
 
 共产主义厨。
+
+### **毒鸡汤**
+
+<!-- Body -->
+<p id="badsoup">有人一笑就很好看，我踏马是一看就想笑。</p>
+
+<!-- Footer -->
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://www.7ed.net/soup/api');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+      var badsoup = document.getElementById('badsoup');
+      badsoup.innerText = data.badsoup;
+    }
+  }
+  xhr.send();
+</script>
+
 
