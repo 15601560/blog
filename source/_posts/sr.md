@@ -6,6 +6,8 @@ urlname: CrepeSR-linux
 
 项目地址 https://github.com/Crepe-Inc/CrepeSR
 
+官方文档 https://github.com/Crepe-Inc/CrepeSR/wiki/%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E7%A8%8B
+
 # 所需组件
 
 一台服务器（仅在Debian11测试通过）
