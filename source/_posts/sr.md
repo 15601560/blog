@@ -22,7 +22,6 @@ urlname: CrepeSR-linux
 ```
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt install -y nodejs
-sudo apt install -y npm
 ## 检查
 node -v
 npm -v
