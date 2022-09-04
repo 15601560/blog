@@ -1,5 +1,5 @@
 ---
-title: 张のgithub反向代理
+title: 张のgithub（raw）反向代理
 date: 2022-07-27 13:33:00
 urlname: github
 ---
@@ -13,8 +13,6 @@ CDN节点
 
 国外 Cloudflare
 
-GitHub官网：gh.imgblz.cn
+节点1：https://ghraw.imgblz.cn
 
-GitHub Gist：gist.imgblz.cn
-
-GitHub RAW：ghraw.imgblz.cn
+节点2：https://gitcdn.gblz.eu.org
