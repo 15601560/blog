@@ -20,7 +20,9 @@ ip-scanner/cloudflare项目里扫的节点，部分只开了ssl端口，导致80
 # 开凿
 
 ---
-项目暂未开放
+
+项目暂未开放（没想错，就是咕咕咕了）
+
 ---
 
-IP来自 https://github.com/ip-scanner/cloudflare 的项目
+所有IP来自 https://github.com/ip-scanner/cloudflare 的项目
