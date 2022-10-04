@@ -6,9 +6,9 @@ favicon: /favicon.png
 
 menu:
   归档: /archives
-  友链: /links
+  网盘: https://pan.imgblz.cn
   关于: /about
-  网盘: https://imgblz.cn
+  首页: https://imgblz.cn
 
 # 做了域名限制，请改成自己的 KEY
 # 若关闭valine 设置enable为false
