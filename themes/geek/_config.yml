@@ -10,8 +10,6 @@ menu:
   关于: /about
   首页: https://imgblz.cn
 
-# 做了域名限制，请改成自己的 KEY
-# 若关闭valine 设置enable为false
 valine:
   enable: false
   appId: CaQKuPQDfnfPFUkTw6MMt8ME-gzGzoHsz
@@ -22,4 +20,4 @@ highlight:
 
 cdn:
   enabled: true
-  url: https://jsdelivr.imgblz.cn/gh/15601560/15601560.github.io
+  url: https://cdn.jsdelivr.net/gh/15601560/15601560.github.io@main
