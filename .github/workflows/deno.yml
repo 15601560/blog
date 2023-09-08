@@ -28,6 +28,7 @@ jobs:
         npm install hexo-cli -g
         npm install hexo-deployer-git
         npm install yarn
+        yarn upgrade
         yarn
         npm update -g
     
