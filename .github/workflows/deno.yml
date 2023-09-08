@@ -27,9 +27,9 @@ jobs:
       run: |
         npm install hexo-cli -g
         npm install hexo-deployer-git
-        yarn install
-        yarn install --force
-        yarn upgrade --latest
+        npm install yarn
+        yarn
+        npm update -g
     
     - name: Setup Deploy Private Key
       env:
